@@ -1,6 +1,6 @@
 ### Deployed link
 
-[https://nucleus-production.up.railway.app/]
+[https://nucleus-production.up.railway.app/invite/c983bcac-0396-4c65-8ce4-3eeae27c88ff]
 
 ### Cloning the repository
 
